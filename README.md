@@ -13,6 +13,10 @@ experienced trader.
 The core structure is a short LETF position hedged with a long call 
 option basket, sized and timed dynamically rather than statically.
 
+## Industry Mentorship
+
+This project was developed with guidance from an industry mentor in quantitative finance. Their feedback helped shape the project's approach to quantitative trading, strategy development, and analysis.
+
 ## Research Objectives
 - **Quantify volatility decay** across LETFs with different underlyings 
   (a sector ETF, a single stock, and a bitcoin-proxy stock) and different 
